@@ -1,0 +1,2 @@
+What am I doing wrong?
+Unable to write a commit message in paragraph form
